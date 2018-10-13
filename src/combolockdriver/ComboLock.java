@@ -63,31 +63,6 @@ public class ComboLock {
      
     }
     
-    
-    
-    
-    //checks if combo is correct 
-//    public boolean checkCombo ()
-//    {
-//        if (num1 == getNum1() && num2 == getNum2() && num3 == getNum3())
-//        {
-//            return true;
-//        } else {
-//            return false;
-//        }
-//        
-//    }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+ 
     
 }
